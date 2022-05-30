@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Lib-test/static/css/main.cea13b3c.css",
-    "main.js": "/Lib-test/static/js/main.278df312.js",
+    "main.css": "/Lib-test/static/css/main.7e2f779a.css",
+    "main.js": "/Lib-test/static/js/main.783ee13c.js",
     "static/js/787.5bfe1605.chunk.js": "/Lib-test/static/js/787.5bfe1605.chunk.js",
+    "static/media/lucidagrande.ttf": "/Lib-test/static/media/lucidagrande.e3a5361b34465d3fa3d5.ttf",
     "static/media/link-hyperlink-url.svg": "/Lib-test/static/media/link-hyperlink-url.497109acd2871110762cf4fad722cd67.svg",
     "static/media/logo.svg": "/Lib-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/text.svg": "/Lib-test/static/media/text.216497817bd27b17fd2c03a769b444c1.svg",
     "index.html": "/Lib-test/index.html",
     "static/media/pdf.svg": "/Lib-test/static/media/pdf.4397887305a9fbe9e9fc76066fd0c729.svg",
-    "main.cea13b3c.css.map": "/Lib-test/static/css/main.cea13b3c.css.map",
-    "main.278df312.js.map": "/Lib-test/static/js/main.278df312.js.map",
+    "main.7e2f779a.css.map": "/Lib-test/static/css/main.7e2f779a.css.map",
+    "main.783ee13c.js.map": "/Lib-test/static/js/main.783ee13c.js.map",
     "787.5bfe1605.chunk.js.map": "/Lib-test/static/js/787.5bfe1605.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cea13b3c.css",
-    "static/js/main.278df312.js"
+    "static/css/main.7e2f779a.css",
+    "static/js/main.783ee13c.js"
   ]
 }
